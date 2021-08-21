@@ -1,0 +1,12 @@
+[package]
+name = "定时器"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = "0.1"
+lettre = "0.9"
+lettre_email = "0.9"
+mime = "0.3.13"

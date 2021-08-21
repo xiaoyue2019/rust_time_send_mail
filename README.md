@@ -1,0 +1,2 @@
+# rust_time_send_mail
+用RUST定时发送邮件提醒懒惰的女友
